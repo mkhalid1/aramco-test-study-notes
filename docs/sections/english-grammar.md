@@ -103,7 +103,7 @@ A. receive · B. receives · C. are receiving · D. have received
 
 </details>
 
-تريد المزيد؟ اختبار أرامكو التجريبي المجاني على PrepClubs فيه 120 سؤالًا (60 في الإنجليزية و60 في الرياضيات) خلال 120 دقيقة، مع شرح بالعربية لكل إجابة: [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test).
+تريد المزيد؟ اختبار أرامكو التجريبي المجاني على PrepClubs فيه 120 سؤالًا (60 في الإنجليزية و60 في الرياضيات) خلال 120 دقيقة، مع شرح بالعربية لكل إجابة: [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test).
 
 ## قيم نفسك
 
@@ -117,7 +117,7 @@ A. receive · B. receives · C. are receiving · D. have received
 
 ## الخطوة التالية
 
-القواعد تتحسن بالتكرار المنتظم أكثر من الحفظ. جرّبها مع بقية الأقسام في اختبار كامل بوقت محدد على [PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test)، ثم ارجع إلى قائمة الأخطاء لكل سؤال أخطأت فيه.
+القواعد تتحسن بالتكرار المنتظم أكثر من الحفظ. جرّبها مع بقية الأقسام في اختبار كامل بوقت محدد على [PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test)، ثم ارجع إلى قائمة الأخطاء لكل سؤال أخطأت فيه.
 
 ---
 

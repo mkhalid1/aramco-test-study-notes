@@ -18,7 +18,7 @@
 | 2 | القواعد والمفردات | اقرأ صفحتي [القواعد](sections/english-grammar.md) و[المفردات](sections/english-vocabulary.md)، وحل أسئلتهما العشرة. ابدأ دفتر كلمات: كل كلمة جديدة داخل جملة. |
 | 3 | فهم المقروء | اقرأ صفحة [فهم المقروء](sections/reading-comprehension.md) وحل أسئلتها الخمسة بوقت محدد. ثم اقرأ مقالًا إنجليزيًا قصيرًا وضع لنفسك خمسة أسئلة عنه. |
 | 4 | الحساب والجبر | اقرأ صفحتي [الحساب](sections/math-arithmetic.md) و[الجبر](sections/math-algebra.md)، وحل أسئلتهما دون آلة حاسبة. اكتب جدول قوانين الجبر من الذاكرة. |
-| 5 | الهندسة واختبار كامل | اقرأ صفحة [الهندسة](sections/math-geometry.md) وحل أسئلتها. ثم حل اختبارًا كاملًا بوقت محدد، مثل [الاختبار التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test)، وصحّحه قسمًا قسمًا. |
+| 5 | الهندسة واختبار كامل | اقرأ صفحة [الهندسة](sections/math-geometry.md) وحل أسئلتها. ثم حل اختبارًا كاملًا بوقت محدد، مثل [الاختبار التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test)، وصحّحه قسمًا قسمًا. |
 | 6 | أضعف قسم والاختبار الثالث | ارجع إلى أخطاء اليوم الخامس، وأعد حل أسئلة أضعف قسم دون النظر إلى الإجابات. ثم اقرأ صفحة [اختبار المهارات والتفكير](third-test.md) وحل نماذج الدليل الرسمي بوقت محدد. |
 | 7 | مراجعة وراحة | راجع دفتر الكلمات وجدول القوانين وقائمة أخطائك. اقرأ [إدارة الوقت](timing.md) و[قائمة يوم الاختبار](test-day-checklist.md). توقف عن المذاكرة مساءً ونم مبكرًا. |
 
@@ -43,7 +43,7 @@
 | 1 | 15 دقيقة | حل [الاختبار التشخيصي](diagnostic.md). |
 | 2 | 30 دقيقة | اقرأ قسمي "طريقة حل مجربة" و"أخطاء تكلّف درجات" في الصفحات الست كلها. تجاوز الباقي الآن. |
 | 3 | 60 دقيقة | حل أسئلة أضعف قسمين عندك، واقرأ كل شرح، حتى للأسئلة التي أصبت فيها. |
-| 4 | 120 دقيقة | حل اختبارًا كاملًا بوقت محدد، مثل [الاختبار التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test). |
+| 4 | 120 دقيقة | حل اختبارًا كاملًا بوقت محدد، مثل [الاختبار التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test). |
 | 5 | 30 دقيقة | راجع كل خطأ بالأسئلة الثلاثة أعلاه. |
 
 ### اليوم الثاني: قبل الاختبار

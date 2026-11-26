@@ -63,7 +63,7 @@
 
 ## تدرب على الشكل الحقيقي
 
-أفضل طريقة لتعرف أين تقف هي اختبار كامل بوقت محدد. [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test) فيه 120 سؤالًا في الإنجليزية والرياضيات خلال 120 دقيقة. وهو اختبار تدريبي مستقل، لا يعكس توقيت أرامكو الرسمي غير المنشور. أو ابدأ بـ[الاختبار التشخيصي](diagnostic.md) في هذا الدليل.
+أفضل طريقة لتعرف أين تقف هي اختبار كامل بوقت محدد. [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test) فيه 120 سؤالًا في الإنجليزية والرياضيات خلال 120 دقيقة. وهو اختبار تدريبي مستقل، لا يعكس توقيت أرامكو الرسمي غير المنشور. أو ابدأ بـ[الاختبار التشخيصي](diagnostic.md) في هذا الدليل.
 
 ---
 

@@ -43,7 +43,7 @@
 
 ## تدريب أخير قبل الاختبار الحقيقي
 
-قبل الاختبار بيومين أو ثلاثة، حل اختبارًا كاملًا بوقت محدد في ظروف تشبه يوم الاختبار: صباحًا، دون هاتف، دون آلة حاسبة. يمكنك استخدام [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test).
+قبل الاختبار بيومين أو ثلاثة، حل اختبارًا كاملًا بوقت محدد في ظروف تشبه يوم الاختبار: صباحًا، دون هاتف، دون آلة حاسبة. يمكنك استخدام [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test).
 
 ---
 

@@ -101,7 +101,7 @@ A. rose steadily · B. fell sharply · C. went up and down repeatedly · D. stay
 
 </details>
 
-تريد المزيد؟ اختبار أرامكو التجريبي المجاني على PrepClubs فيه 120 سؤالًا (60 في الإنجليزية و60 في الرياضيات) خلال 120 دقيقة، مع شرح بالعربية لكل إجابة: [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test).
+تريد المزيد؟ اختبار أرامكو التجريبي المجاني على PrepClubs فيه 120 سؤالًا (60 في الإنجليزية و60 في الرياضيات) خلال 120 دقيقة، مع شرح بالعربية لكل إجابة: [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test).
 
 ## قيم نفسك
 
@@ -115,7 +115,7 @@ A. rose steadily · B. fell sharply · C. went up and down repeatedly · D. stay
 
 ## الخطوة التالية
 
-المفردات تُبنى بالتراكم، فخصص لها عشر دقائق يوميًا بدل جلسة طويلة واحدة. ثم اختبر نفسك في سياق اختبار كامل على [PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test).
+المفردات تُبنى بالتراكم، فخصص لها عشر دقائق يوميًا بدل جلسة طويلة واحدة. ثم اختبر نفسك في سياق اختبار كامل على [PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test).
 
 ---
 

@@ -65,7 +65,7 @@
 
 ## الخطوة التالية
 
-هذا الاختبار يكافئ السرعة والهدوء أكثر من الحفظ. حل نماذج الدليل الرسمي بوقت محدد، ثم ارجع إلى [إدارة الوقت](timing.md) لتوزيع جهدك على الجلسة كاملة. وللتدرب على الإنجليزية والرياضيات بوقت محدد، جرّب [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test).
+هذا الاختبار يكافئ السرعة والهدوء أكثر من الحفظ. حل نماذج الدليل الرسمي بوقت محدد، ثم ارجع إلى [إدارة الوقت](timing.md) لتوزيع جهدك على الجلسة كاملة. وللتدرب على الإنجليزية والرياضيات بوقت محدد، جرّب [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test).
 
 ---
 

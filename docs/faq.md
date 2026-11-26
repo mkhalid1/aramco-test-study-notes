@@ -48,7 +48,7 @@
 
 ## أين أتدرب مجانا؟
 
-ابدأ بعينات أرامكو الرسمية لكل برنامج، وروابطها في [المصادر](sources.md)، ثم [الاختبار التشخيصي](diagnostic.md) والأسئلة التدريبية في هذا الدليل. ولاختبار كامل بوقت محدد: [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test)، وفيه 120 سؤالًا في الإنجليزية والرياضيات.
+ابدأ بعينات أرامكو الرسمية لكل برنامج، وروابطها في [المصادر](sources.md)، ثم [الاختبار التشخيصي](diagnostic.md) والأسئلة التدريبية في هذا الدليل. ولاختبار كامل بوقت محدد: [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test)، وفيه 120 سؤالًا في الإنجليزية والرياضيات.
 
 ---
 

@@ -48,7 +48,7 @@
 
 ## تدرب مع ساعة
 
-المعرفة بالقواعد شيء، والإيقاع تحت ضغط الوقت شيء آخر. جرّب [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test)، وفيه 120 سؤالًا في 120 دقيقة. وتذكر أن هذا توقيت الاختبار التجريبي، لا توقيت أرامكو.
+المعرفة بالقواعد شيء، والإيقاع تحت ضغط الوقت شيء آخر. جرّب [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test)، وفيه 120 سؤالًا في 120 دقيقة. وتذكر أن هذا توقيت الاختبار التجريبي، لا توقيت أرامكو.
 
 ---
 

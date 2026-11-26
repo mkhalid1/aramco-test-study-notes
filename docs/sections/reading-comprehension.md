@@ -98,7 +98,7 @@ A. build a second tank · B. watch how the solar pumps perform for another summe
 
 </details>
 
-تريد المزيد؟ اختبار أرامكو التجريبي المجاني على PrepClubs فيه 120 سؤالًا (60 في الإنجليزية و60 في الرياضيات) خلال 120 دقيقة، مع شرح بالعربية لكل إجابة: [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test).
+تريد المزيد؟ اختبار أرامكو التجريبي المجاني على PrepClubs فيه 120 سؤالًا (60 في الإنجليزية و60 في الرياضيات) خلال 120 دقيقة، مع شرح بالعربية لكل إجابة: [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test).
 
 ## قيم نفسك
 
@@ -112,7 +112,7 @@ A. build a second tank · B. watch how the solar pumps perform for another summe
 
 ## الخطوة التالية
 
-القراءة أكثر أجزاء الإنجليزية استهلاكًا للوقت، والتدريب عليها بوقت محدد يصنع الفرق. جرّبها ضمن [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test).
+القراءة أكثر أجزاء الإنجليزية استهلاكًا للوقت، والتدريب عليها بوقت محدد يصنع الفرق. جرّبها ضمن [اختبار أرامكو التجريبي على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test).
 
 ---
 

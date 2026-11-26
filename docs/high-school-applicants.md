@@ -57,7 +57,7 @@
 
 ## ابدأ التدريب
 
-إذا كنت في الصف الثالث الثانوي، فأفضل توقيت للمذاكرة هو قبل فتح التسجيل، لا بعده. ابدأ بـ[الاختبار التشخيصي](diagnostic.md)، ثم جرّب [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aramco-test) لتعرف إيقاعك في اختبار كامل.
+إذا كنت في الصف الثالث الثانوي، فأفضل توقيت للمذاكرة هو قبل فتح التسجيل، لا بعده. ابدأ بـ[الاختبار التشخيصي](diagnostic.md)، ثم جرّب [اختبار أرامكو التجريبي المجاني على PrepClubs](https://prepclubs.com/ar/ikhtibar-aramco?utm_source=github&utm_medium=referral&utm_campaign=zgs2p2&utm_content=aramco-test) لتعرف إيقاعك في اختبار كامل.
 
 ---
 
